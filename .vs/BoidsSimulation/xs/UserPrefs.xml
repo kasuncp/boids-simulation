@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EC16D27C-EA44-1EDD-E034-6CA699ADA6BB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BoidBehavior.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BoidBehavior.cs" Line="27" Column="18" />
+      <File FileName="Assets/Scripts/SpawnerBehavior.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BoidsSimulation" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd7f1716-03c0-433b-86ec-9d336d5456b3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
